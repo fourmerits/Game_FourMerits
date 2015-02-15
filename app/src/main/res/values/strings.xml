@@ -1,6 +1,10 @@
 <resources>
     <string name="app_name">GameProject</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="game_name">SHOOTING</string>
+    <string name="new_game">New Game</string>
+    <string name="continue_game">Continue</string>
+    <string name="about_game">About</string>
+    <string name="exit_game">Exit</string>
     <string name="action_settings">Settings</string>
 </resources>
